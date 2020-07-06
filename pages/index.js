@@ -25,7 +25,7 @@ export default function Home({allPostsData}) {
         <p>Age: 21</p>
         <p>Nationality: Vietnamese</p>
         <p>
-          (Well come to my blog){' '}
+          (Welome to my blog){' '}
         </p>
       </section>
 
